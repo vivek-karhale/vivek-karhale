@@ -28,5 +28,5 @@ I'm currently looking for roles as a Front-End Developer, Full Stack Developer, 
 
 ## Socials
 
-- LinkedIn: [Vivek Karhale](https://www.linkedin.com/in/vivek-karhale-3545a6106)
+- LinkedIn: [Vivek Karhale](https://www.linkedin.com/in/vivek-karhale)
 - [My Portfolio](https://vivekkarhale.dev/).
