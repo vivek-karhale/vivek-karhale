@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek Karhale!
 
-<!--
-**vivek-karhale/vivek-karhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills.
 
-Here are some ideas to get you started:
+✉️  You can contact me at [vivekkarhale7650@gmail.com](mailto:vivekkarhale7650@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills Overview
+
+- **Web Development:** HTML5, CSS3, LESS, SASS, React, Angular, Next.js, jQuery, AJAX, JSON, XML, Tailwind, Bootstrap
+
+- **Frameworks/Libraries:** React Native, Node.js, Express.js, Redux, Ionic, Spring Boot, Spring MVC, Hibernate, JPA
+
+- **Programming Languages:** Java, JavaScript, TypeScript, Python, Kotlin, SQL, PL/SQL
+
+- **Database Management:** MySQL, PostgreSQL, MongoDB
+
+- **Testing/Logging frameworks:** JUnit, Mockito, Cucumber, Selenium, Log4j
+
+- **IDEs:** Microsoft Visual Studio, Eclipse, IntelliJ IDEA, Android Studio
+
+- **Tools:** Git, GitHub, Docker, Jenkins, Maven, Gradle, Postman, Dreamweaver, Apache Tomcat Server
+
+- **Methodologies:** SDLC, Agile, Scrum, Waterfall
+
+## Looking for Opportunities
+
+I'm currently looking for roles as a Front-End Developer, Full Stack Developer, Web Developer and Java software Developer.
+
+## Socials
+
+- LinkedIn: [Vivek Karhale](https://www.linkedin.com/in/vivek-karhale)
+- [My Portfolio](https://vivekkarhale.dev/).
